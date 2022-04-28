@@ -10,3 +10,13 @@
 body{
     font-family: monospace;
 }
+.bg-light-black{
+    color: rgb(0, 0, 0);
+}
+
+.bg-dark-pink{
+    background-color: rgb(214, 134, 132);
+}
+.text-color{
+    color: rgb(240, 228, 228)
+}
